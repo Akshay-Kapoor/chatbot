@@ -5,6 +5,6 @@ Also, we have added a Chatbot to address their queries and concerns.
 We have used Python, Flask and Chatbot-query api!<br>
 We weren't able to ship some of the features and also couldn't make a good UX due to time crunch and other college issues.
 <br></br>
-You can view it here https://chatbot-akshay-2204.vercel.app/
+You can view it here https://srmcemchatbot.vercel.app/
 <br>
 Thanks!
